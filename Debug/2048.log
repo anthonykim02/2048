@@ -1,0 +1,20 @@
+﻿Build started 7/23/2014 12:24:47 PM.
+     1>Project "C:\Users\student\Desktop\anthonyk\2048\2048\2048.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\2048.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\2048.unsuccessfulbuild".
+         Touching "Debug\2048.lastbuildstate".
+     1>Done Building Project "C:\Users\student\Desktop\anthonyk\2048\2048\2048.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.05
